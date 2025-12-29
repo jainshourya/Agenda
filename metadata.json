@@ -1,0 +1,9 @@
+
+{
+  "name": "AgendaAI - Smart Meeting Planner",
+  "description": "Transform any document into a structured meeting agenda with stakeholder identification, topic timelines, and an AI-powered brainstorming chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
